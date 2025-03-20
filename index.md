@@ -105,13 +105,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Laura Mupfumisi</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2001</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Zimbabwe</dd>
+<dt>College</dt>
+<dd>Gateway Community and Technical College</dd>
 </dl>
 
 ```
