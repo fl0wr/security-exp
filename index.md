@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Honeypot Setup 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -106,10 +106,10 @@ end
 <dl>
 <dt>Name</dt>
 <dd>Laura Mupfumisi</dd>
-<dt>Born</dt>
-<dd>2001</dd>
-<dt>Birthplace</dt>
-<dd>Zimbabwe</dd>
+<dt>Year</dt>
+<dd>2nd</dd>
+<dt>City</dt>
+<dd>Kentucky</dd>
 <dt>College</dt>
 <dd>Gateway Community and Technical College</dd>
 </dl>
