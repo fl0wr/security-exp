@@ -19,4 +19,6 @@ Windows file systems and artifacts contain valuable information that can be cruc
 -**AUtopsy**: DIgital forensics plateform
 -**Windows File Analyzer**: Artifact analysis tool
 -**MFTECmd**: A MAaster Fiel table parser
--**ShellBAgs Explorer**: Shellbag analysis utility
+-**ShellBags Explorer**: Shellbag analysis utility
+
+
