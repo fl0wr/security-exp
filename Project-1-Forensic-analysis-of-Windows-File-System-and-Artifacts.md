@@ -15,11 +15,11 @@ Windows file systems and artifacts contain valuable information that can be cruc
 
 ## Tools Used
 
--**FTK Imager**: A forensics imaging tool
--**AUtopsy**: DIgital forensics plateform
--**Windows File Analyzer**: Artifact analysis tool
--**MFTECmd**: A MAaster Fiel table parser
--**ShellBags Explorer**: Shellbag analysis utility
+- **FTK Imager**: A forensics imaging tool
+- **AUtopsy**: Digital forensics platform
+- **Windows File Analyzer**: Artifact analysis tool
+- **MFTECmd**: A Master File table parser
+- **ShellBags Explorer**: Shellbag analysis utility
 
 ---
 ## Setup and Installation
@@ -36,4 +36,13 @@ Windows file systems and artifacts contain valuable information that can be cruc
 -Download and install from official source
 
 ---
+
+## Investigation Workflow
+
+### Phase 1: Disk Imaging with FTK Imager
+**Objective**: Create a forensic image of a target disk
+**Metho**:
+- Launch FTK Imager
+- Select File > Create disk image
+- 
 
