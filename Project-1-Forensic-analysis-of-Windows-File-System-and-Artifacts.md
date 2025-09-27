@@ -1,4 +1,4 @@
-#Project 1: A forensic analysis of windows file systems and artifacts
+# Project 1: A forensic analysis of windows file systems and artifacts
 
 ## Introduction
 Windows file systems and artifacts contain valuable information that can be crucial during forensic investigations. I explore the process of analyzing Windows files system and extracting key forensic artifacts using industry-stanadard tools. My goal being able to identify and interpret digital traces that mayreveal potential security incidents.
@@ -22,9 +22,9 @@ Windows file systems and artifacts contain valuable information that can be cruc
 -**ShellBags Explorer**: Shellbag analysis utility
 
 ---
-##Setup and INstallation
+## Setup and Installation
 
-###FTK Imager
+### FTK Imager
 -Download from AccessData
 -Run it and follow the instructions on screen
 
